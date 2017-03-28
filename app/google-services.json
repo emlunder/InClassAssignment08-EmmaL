@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "788262261918",
+    "firebase_url": "https://inclassassignment-emmal2.firebaseio.com",
+    "project_id": "inclassassignment-emmal2",
+    "storage_bucket": "inclassassignment-emmal2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788262261918:android:29072e91744f7fd5",
+        "android_client_info": {
+          "package_name": "com.example.cmltdstudent.inclassassignment08_emmal2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788262261918-jh6qo2u9fm6alrpn27floet0cob2iuos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLW2GoJLdSAO8dGPPVjUbqskXeaEc2IXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
